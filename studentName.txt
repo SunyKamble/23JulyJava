@@ -1,5 +1,0 @@
-The students name are:
-sunny
-amol
-kartik
-tejas
