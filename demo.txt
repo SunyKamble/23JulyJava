@@ -6,6 +6,6 @@ we are working on Git funcationality
 Topic covered
 Oops
 Collection
-
+String
 
 need to update code
